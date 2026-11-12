@@ -1,0 +1,9 @@
+.env
+docs/DEV_TOKEN.txt
+.venv/
+__pycache__/
+*.pyc
+*.log
+media/
+.meta/
+uploads/
